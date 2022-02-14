@@ -1,0 +1,5 @@
+kaggle: https://www.kaggle.com/datasets
+UCI (средний уровень сортировки (кол-во строк, столбцов)): https://archive.ics.uci.edu/ml/datasets.php
+
+Google Search Dataset: https://toolbox.google.com/datasetsearch
+Как вариант: https://data.world/sumendar
