@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Multilayer_perceptrone_with_libraries", "Multilayer_perceptrone_with_libraries.pyproj", "{291002F3-A358-4DBF-970F-C9E40A33FF45}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Multilayer_perceptrone", "..\..\Multilayer_perceptrone\Multilayer_perceptrone\Multilayer_perceptrone.pyproj", "{BA44AFEE-C454-4842-92B6-0EF9D2F24D89}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Masp_of_Cohonen", "..\..\..\Лабораторная работа №3. Карты Кохонена\Masp_of_Cohonen\Masp_of_Cohonen.pyproj", "{74FB78AF-6ED3-4E60-BEDD-73C90AB134FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291002F3-A358-4DBF-970F-C9E40A33FF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291002F3-A358-4DBF-970F-C9E40A33FF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA44AFEE-C454-4842-92B6-0EF9D2F24D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA44AFEE-C454-4842-92B6-0EF9D2F24D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FB78AF-6ED3-4E60-BEDD-73C90AB134FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FB78AF-6ED3-4E60-BEDD-73C90AB134FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6688EF-BEEF-45DF-A7CD-39EA8DE8BB28}
+	EndGlobalSection
+EndGlobal
