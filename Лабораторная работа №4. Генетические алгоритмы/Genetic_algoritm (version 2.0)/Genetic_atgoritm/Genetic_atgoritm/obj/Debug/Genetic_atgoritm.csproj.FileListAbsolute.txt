@@ -1,0 +1,11 @@
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.exe.config
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.exe
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.pdb
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\obj\Debug\Genetic_atgoritm.exe
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\obj\Debug\Genetic_atgoritm.pdb
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.exe.config
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.exe
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\bin\Debug\Genetic_atgoritm.pdb
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\obj\Debug\Genetic_atgoritm.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\obj\Debug\Genetic_atgoritm.exe
+C:\Users\Дмитрий\Desktop\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 2.0)\Genetic_atgoritm\Genetic_atgoritm\obj\Debug\Genetic_atgoritm.pdb

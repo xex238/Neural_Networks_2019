@@ -1,0 +1,27 @@
+            //string str = "x+3";
+            //string p_str = "x";
+            //double[] parameters = new double[1];
+            //parameters[0] = 0.5;
+
+            //For_equals example = new For_equals(str, p_str);
+
+            //example.Decide_first_time();
+            //double result = example.Decide(parameters);
+            //Console.WriteLine("result = {0}", result);
+
+
+
+
+
+
+            ////string optimization_function_1 = "10*2+(x1^2-10*cos(2*pi*x1))+(x2^2-10*cos(2*pi*x2))";
+            //string optimization_function_1 = "x1+x2";
+            //string p_str_2 = "x1 x2";
+            //double[] parameters_2 = new double[2];
+            //parameters_2[0] = 0;
+            //parameters_2[1] = 0;
+
+            //For_equals example_2 = new For_equals(optimization_function_1, p_str_2);
+            //example_2.Decide_first_time();
+            //double result_2 = example_2.Decide(parameters_2);
+            //Console.WriteLine("result = {0}", result_2);

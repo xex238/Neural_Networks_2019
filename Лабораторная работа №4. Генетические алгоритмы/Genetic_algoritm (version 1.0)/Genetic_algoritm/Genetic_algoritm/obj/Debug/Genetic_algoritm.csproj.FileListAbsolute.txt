@@ -1,0 +1,6 @@
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\bin\Debug\Genetic_algoritm.exe.config
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\bin\Debug\Genetic_algoritm.exe
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\bin\Debug\Genetic_algoritm.pdb
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\obj\Debug\Genetic_algoritm.csprojAssemblyReference.cache
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\obj\Debug\Genetic_algoritm.exe
+C:\Users\dima0\OneDrive\Рабочий стол\Учебники\7 семестр\Нейронные сети\Лабораторная работа №4. Генетические алгоритмы\Genetic_algoritm (version 1.0)\Genetic_algoritm\Genetic_algoritm\obj\Debug\Genetic_algoritm.pdb
